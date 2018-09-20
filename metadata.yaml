@@ -1,0 +1,30 @@
+_repo: Ignorant-Essays_53169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dowling, Richard
+    aliases:
+    - Fall, Marcus
+    - Dowling, R. (Richard)
+    birthdate: 1846
+    deathdate: 1898
+    gutenberg_agent_id: '41234'
+    url: http://www.gutenberg.org/2009/agents/41234
+description: ''
+gutenberg_issued: '2016-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The only real ghost in fiction -- The best two books -- Lies of fable
+  and allegory -- My copy of Keats -- Decay of the sublime -- A borrowed poet -- The
+  English opium-eater -- A guide to ignorance.
+title: Ignorant Essays
+url: http://www.gutenberg.org/ebooks/53169
